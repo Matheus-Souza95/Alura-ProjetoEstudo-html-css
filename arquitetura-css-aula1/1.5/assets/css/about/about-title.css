@@ -1,0 +1,14 @@
+.about__title{
+    color: brown;
+    font-family: Pacifico, cursive;
+}
+@media screen and (min-width:0){
+    .about__title{
+        font-size: 2rem;
+    }
+}
+@media screen and (min-width:768px){
+    .about__title{
+        font-size: 3rem;
+    }
+}

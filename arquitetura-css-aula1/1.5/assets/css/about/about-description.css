@@ -1,0 +1,14 @@
+.about__description{
+  font-weight: 100;
+  color: rgb(54, 54, 54);
+}
+@media screen and (min-width:0){
+    .about__description{
+        font-size: 1.35rem;
+    }
+}
+@media screen and (min-width:768px){
+    .about__description{
+        font-size: 1.75rem;
+    }
+}
